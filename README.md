@@ -21,17 +21,17 @@
 
 
 <p>Below is what a user will see once viewing the test score calculator. The user will need to click the 'Click Me to Enter Test Scores' button in order to enter their desired test scores.</p>
-<img alt="" src=""/>
+<img alt="screenshot of front page of test score calculator" src="images/testscore1.jpg"/>
 <br />
 
 <p>Once the user clicks the button, an alert will pop up asking the user to enter scores between 0 and 100 or to exit enter 999</p>
 <p>The user can enter however many test scores they want. Once they have entered the desired amount, they will have to enter 999 to exit and be presented with the results.</p>
-<img alt="" src=""/>
+<img alt="screenshot of alert box" src="images/testscore2.jpg"/>
 <br />
 
 <p>The scores I entered were: 50, 90, 85, and 79 </p>
 <p>The output that will be placed in the empty textboxes from the scores I have entered: </p>
-<img alt="" src=""/>
+<img alt="screenshot of test score results" src="images/testscore3.jpg"/>
 <br />
 
 
